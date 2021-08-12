@@ -1,0 +1,2 @@
+jo,75,36,7,10,10/Pastanaga,0*Cookie,0;Slenderman,0,10,20,89,75/;Creeper,25,50,50,0,20/;
+Pastanaga,3,-1,0,3;Pastanaga daurada,6,-1,0,4;Cookie,4,-1,0,6;
